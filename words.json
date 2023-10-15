@@ -230,6 +230,51 @@
         " especially of a theory or argument) appearing neat and comprehensive only by ignoring the true complexities of an issue; superficial",
 	" arrived at without due care or effort; lacking depth"
       ]
-    }
+    },
+		{
+			"Word": "Afflict", 
+			"Definition": [
+			"verb",
+			" (of a problem or illness) cause pain or suffering to; affect or trouble"
+			]
+		},
+		{
+			"Word": "", 
+			"Definition": [
+			"",
+			" "
+			]
+		},
+        {
+            "Word": "Scourge", 
+            "Definition": [
+            "noun",
+            " a person or thing that causes great trouble or suffering",
+			" a whip used as an instrument of punishment"
+            ]
+        },
+        {
+            "Word": "Vex", 
+            "Definition": [
+            "verb",
+            " make (someone) feel annoyed, frustrated, or worried, especially with trivial matters"
+            ]
+        },
+        {
+            "Word": "Conspicuous", 
+            "Definition": [
+            "adjective",
+            " standing out so as to be clearly visible.",
+			" attracting notice or attention"
+            ]
+        },
+        {
+            "Word": "Retort", 
+            "Definition": [
+            "verb",
+            " say something in answer to a remark or accusation, typically in a sharp, angry, or wittily incisive manner.",
+			" noun: a sharp, angry, or wittily incisive reply to a remark"
+            ]
+        }	  
   ]
 }
