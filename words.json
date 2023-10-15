@@ -1,274 +1,344 @@
 {
 	"Vocabulary": [
-	  {
-		"Word": "Abode", 
-		"Definition": [
-		  "noun",
-		  " a place of residence; a house or home",
-		  " a temporary stay."
+		{
+			"Word": "Abode", 
+			"Definition": [
+			"noun",
+			" a place of residence; a house or home",
+			" a temporary stay."
+			]
+		},
+		{
+			"Word": "Abundant", 
+			"Definition": [
+			"adjective",
+			" existing or available in large quantities; plentiful",
+			" having plentiful."
+			]
+		},
+		{
+			"Word": "Condemn", 
+			"Definition": [
+			"verb",
+			" express complete disapproval of, typically in public; censure.",
+			" to declare to be reprehensible, wrong, or evil usually after weighing evidence and without reservation"
+			]
+		},
+		{
+			"Word": "Rhetoric", 
+			"Definition": [
+			"noun",
+			" speaking or writing that's intended to persuade"
+			]
+		},
+		{
+			"Word": "Rhetorical", 
+			"Definition": [
+			"adjective",
+			" of, relating to, or concerned with the art of speaking or writing formally and effectively especially as a way to persuade or influence people",
+			" it is a question that is asked for effect, rather than from a desire to know the answer. 'Would it kill you to stop chewing your food with your mouth open?' is a rhetorical question"
+			]
+		},
+		{
+			"Word": "Precarious", 
+			"Definition": [
+			"adjective",
+			" not securely held or in position; dangerously likely to fall or collapse",
+		" dependent on chance; uncertain"
+			]
+		},
+		{
+			"Word": "Capricious", 
+			"Definition": [
+			"adjective",
+			" given to sudden and unaccountable changes of mood or behavior",
+		" Someone who is capricious often changes their mind unexpectedly; fickle"
+			]
+		},
+		{
+			"Word": "Palpable", 
+			"Definition": [
+			"adjective",
+			" You describe something as palpable when it is obvious or intense and easily noticed.",
+		" (of a feeling or atmosphere) so intense as to seem almost tangible",
+		" able to be touched or felt." 
+			]
+		},
+		{
+			"Word": "Perpetual", 
+			"Definition": [
+			"adjective",
+			" never ending or changing",
+			" occurring repeatedly; so frequent as to seem endless and uninterrupted"
 		]
-	  },
-	  {
-		"Word": "Abundant", 
-		"Definition": [
-		  "adjective",
-		  " existing or available in large quantities; plentiful",
-		  " having plentiful."
-		]
-	  },
-	  {
-		"Word": "Condemn", 
-		"Definition": [
-		  "verb",
-		  " express complete disapproval of, typically in public; censure.",
-		  " to declare to be reprehensible, wrong, or evil usually after weighing evidence and without reservation"
-		]
-	  },
-	  {
-		"Word": "Rhetoric", 
-		"Definition": [
-		  "noun",
-		  " speaking or writing that's intended to persuade"
-		]
-	  },
-	  {
-		"Word": "Rhetorical", 
-		"Definition": [
-		  "adjective",
-		  " of, relating to, or concerned with the art of speaking or writing formally and effectively especially as a way to persuade or influence people",
-		  " it is a question that is asked for effect, rather than from a desire to know the answer. 'Would it kill you to stop chewing your food with your mouth open?' is a rhetorical question"
-		]
-	  },
-	  {
-		"Word": "Precarious", 
-		"Definition": [
-		  "adjective",
-		  " not securely held or in position; dangerously likely to fall or collapse",
-	  " dependent on chance; uncertain"
-		]
-	  },
-	  {
-		"Word": "Capricious", 
-		"Definition": [
-		  "adjective",
-		  " given to sudden and unaccountable changes of mood or behavior",
-	  " Someone who is capricious often changes their mind unexpectedly; fickle"
-		]
-	  },
-	  {
-		"Word": "Palpable", 
-		"Definition": [
-		  "adjective",
-		  " You describe something as palpable when it is obvious or intense and easily noticed.",
-	  " (of a feeling or atmosphere) so intense as to seem almost tangible",
-	  " able to be touched or felt." 
-		]
-	  },
-	  {
-		"Word": "Perpetual", 
-		"Definition": [
-		  "adjective",
-		  " never ending or changing",
-		  " occurring repeatedly; so frequent as to seem endless and uninterrupted"
-	   ]
-	  },
-	  {
-		"Word": "Accost", 
-		"Definition": [
-		  "verb",
-		  " to confront boldly",
-	  " approach and address (someone) boldly or aggressively",
-	  " to approach someone aggressively or confront them in an inappropriate way"
-		]
-	  },
-	  {
-		"Word": "Censure", 
-		"Definition": [
-		  "verb",
-		  " express severe disapproval of (someone or something), especially in a formal statement",
-	  " If you censure someone for something that they have done, you tell them that you strongly disapprove of it; condemn"
-		]
-	  },
-	  {
-		"Word": "Accord", 
-		"Definition": [
-		  "noun",
-		  " an official agreement or treaty",
-	  " verb: give or grant someone (power, status, or recognition)"
-		]
-	  },
-	  {
-		"Word": "Compel", 
-		"Definition": [
-		  "verb",
-		  " force somebody to do something"
-		]
-	  },
-	  {
-		"Word": "Manifest", 
-		"Definition": [
-		  "verb",
-		  " reveal its presence or make an appearance",
-	  " adjective: clear or obvious to the eye or mind"
-		]
-	  },
-	  {
-		"Word": "Contempt", 
-		"Definition": [
-		  "noun",
-		  " lack of respect accompanied by a feeling of intense dislike",
-	  " the offense of being disobedient to or disrespectful of a court of law and its officers"
-		]
-	  },
-	  {
-		"Word": "Distinction", 
-		"Definition": [
-		  "noun",
-		  " a discrimination between things as different",
-	  " a difference or contrast between similar things or people"
-		]
-	  },
-	  {
-		"Word": "Disposition", 
-		"Definition": [
-		  "noun",
-		  " a person's inherent qualities of mind and character",
-	  " a putting in order or being put in order; arrangement the disposition of the troops",
-	  " an inclination or tendency"
-		]
-	  },
-	  {
-		"Word": "Cardinal", 
-		"Definition": [
-		  "adjective",
-		  " of the greatest importance; fundamental",
-	  " noun: a leading dignitary of the Roman Catholic Church. Cardinals are nominated by the Pope, and form the Sacred College which elects succeeding popes (now invariably from among their own number)"
-		]
-	  },
-	  {
-		"Word": "Advocate", 
-		"Definition": [
-		  "noun",
-		  " a person who publicly supports or recommends a particular cause or policy",
-	  " verb: publicly recommend or support."
-		]
-	  },
-	  {
-		"Word": "Notwithstanding", 
-		"Definition": [
-		  "adverb",
-		  " nevertheless; in spite of this.",
-	  " conjunction: although; in spite of the fact that"
-		]
-	  },
-	  {
-		"Word": "Multitude", 
-		"Definition": [
-		  "noun",
-		  " a large number of people or things"
-		]
-	  },
-	  {
-		"Word": "Heed", 
-		"Definition": [
-		  "verb",
-		  " pay attention to; take notice of",
-	  " noun: careful attention."
-		]
-	  },
-	  {
-		"Word": "Esteem", 
-		"Definition": [
-		  "noun",
-		  " respect and admiration, typically for a person.",
-	  " verb: respect and admire"
-		]
-	  },
-	  {
-		"Word": "Apt", 
-		"Definition": [
-		  "adjective",
-		  " appropriate or suitable in the circumstances",
-	  " having a tendency to do something"
-		]
-	  },
-	  {
-		"Word": "Ascertain", 
-		"Definition": [
-		  "verb",
-		  " find (something) out for certain; make sure of"
-		]
-	  },
-	  {
-		"Word": "Cede", 
-		"Definition": [
-		  "verb",
-		  " give up (power or territory)"
-		]
-	  },
-	  {
-		"Word": "Decree", 
-		"Definition": [
-		  "noun",
-		  " an official order issued by a legal authority",
-	  " verb: order (something) by decree"
-		]
-	  },
-	  {
-		"Word": "Frontier", 
-		"Definition": [
-		  "noun",
-		  " a line or border separating two countries",
-	  " a wilderness at the edge of a settled area of a country",
-	  " the limit of knowledge or the most advanced achievement in a particular field the frontiers of physics"
-		]
-	  },
-	  {
-		"Word": "Facile", 
-		"Definition": [
-		  "adjective",
-		  " especially of a theory or argument) appearing neat and comprehensive only by ignoring the true complexities of an issue; superficial",
-	  " arrived at without due care or effort; lacking depth"
-		]
-	  },
-		  {
-			  "Word": "Afflict", 
-			  "Definition": [
-			  "verb",
-			  " (of a problem or illness) cause pain or suffering to; affect or trouble"
-			  ]
-		  },
-		  {
-			  "Word": "Scourge", 
-			  "Definition": [
-			  "noun",
-			  " a person or thing that causes great trouble or suffering",
-			  " a whip used as an instrument of punishment"
-			  ]
-		  },
-		  {
-			  "Word": "Vex", 
-			  "Definition": [
-			  "verb",
-			  " make (someone) feel annoyed, frustrated, or worried, especially with trivial matters"
-			  ]
-		  },
-		  {
-			  "Word": "Conspicuous", 
-			  "Definition": [
-			  "adjective",
-			  " standing out so as to be clearly visible.",
-			  " attracting notice or attention"
-			  ]
-		  },
-		  {
-			  "Word": "Retort", 
-			  "Definition": [
-			  "verb",
-			  " say something in answer to a remark or accusation, typically in a sharp, angry, or wittily incisive manner.",
-			  " noun: a sharp, angry, or wittily incisive reply to a remark"
-			  ]
-		  }	  
+		},
+		{
+			"Word": "Accost", 
+			"Definition": [
+			"verb",
+			" to confront boldly",
+		" approach and address (someone) boldly or aggressively",
+		" to approach someone aggressively or confront them in an inappropriate way"
+			]
+		},
+		{
+			"Word": "Censure", 
+			"Definition": [
+			"verb",
+			" express severe disapproval of (someone or something), especially in a formal statement",
+		" If you censure someone for something that they have done, you tell them that you strongly disapprove of it; condemn"
+			]
+		},
+		{
+			"Word": "Accord", 
+			"Definition": [
+			"noun",
+			" an official agreement or treaty",
+		" verb: give or grant someone (power, status, or recognition)"
+			]
+		},
+		{
+			"Word": "Compel", 
+			"Definition": [
+			"verb",
+			" force somebody to do something"
+			]
+		},
+		{
+			"Word": "Manifest", 
+			"Definition": [
+			"verb",
+			" reveal its presence or make an appearance",
+		" adjective: clear or obvious to the eye or mind"
+			]
+		},
+		{
+			"Word": "Contempt", 
+			"Definition": [
+			"noun",
+			" lack of respect accompanied by a feeling of intense dislike",
+		" the offense of being disobedient to or disrespectful of a court of law and its officers"
+			]
+		},
+		{
+			"Word": "Distinction", 
+			"Definition": [
+			"noun",
+			" a discrimination between things as different",
+		" a difference or contrast between similar things or people"
+			]
+		},
+		{
+			"Word": "Disposition", 
+			"Definition": [
+			"noun",
+			" a person's inherent qualities of mind and character",
+		" a putting in order or being put in order; arrangement the disposition of the troops",
+		" an inclination or tendency"
+			]
+		},
+		{
+			"Word": "Cardinal", 
+			"Definition": [
+			"adjective",
+			" of the greatest importance; fundamental",
+		" noun: a leading dignitary of the Roman Catholic Church. Cardinals are nominated by the Pope, and form the Sacred College which elects succeeding popes (now invariably from among their own number)"
+			]
+		},
+		{
+			"Word": "Advocate", 
+			"Definition": [
+			"noun",
+			" a person who publicly supports or recommends a particular cause or policy",
+		" verb: publicly recommend or support."
+			]
+		},
+		{
+			"Word": "Notwithstanding", 
+			"Definition": [
+			"adverb",
+			" nevertheless; in spite of this.",
+		" conjunction: although; in spite of the fact that"
+			]
+		},
+		{
+			"Word": "Multitude", 
+			"Definition": [
+			"noun",
+			" a large number of people or things"
+			]
+		},
+		{
+			"Word": "Heed", 
+			"Definition": [
+			"verb",
+			" pay attention to; take notice of",
+		" noun: careful attention."
+			]
+		},
+		{
+			"Word": "Esteem", 
+			"Definition": [
+			"noun",
+			" respect and admiration, typically for a person.",
+		" verb: respect and admire"
+			]
+		},
+		{
+			"Word": "Apt", 
+			"Definition": [
+			"adjective",
+			" appropriate or suitable in the circumstances",
+		" having a tendency to do something"
+			]
+		},
+		{
+			"Word": "Ascertain", 
+			"Definition": [
+			"verb",
+			" find (something) out for certain; make sure of"
+			]
+		},
+		{
+			"Word": "Cede", 
+			"Definition": [
+			"verb",
+			" give up (power or territory)"
+			]
+		},
+		{
+			"Word": "Decree", 
+			"Definition": [
+			"noun",
+			" an official order issued by a legal authority",
+		" verb: order (something) by decree"
+			]
+		},
+		{
+			"Word": "Frontier", 
+			"Definition": [
+			"noun",
+			" a line or border separating two countries",
+		" a wilderness at the edge of a settled area of a country",
+		" the limit of knowledge or the most advanced achievement in a particular field the frontiers of physics"
+			]
+		},
+		{
+			"Word": "Facile", 
+			"Definition": [
+			"adjective",
+			" especially of a theory or argument) appearing neat and comprehensive only by ignoring the true complexities of an issue; superficial",
+		" arrived at without due care or effort; lacking depth"
+			]
+		},
+		{
+			"Word": "Afflict",
+			"Definition": [
+				"verb",
+				" (of a problem or illness) cause pain or suffering to; affect or trouble"
+			]
+		},
+		{
+			"Word": "Scourge",
+			"Definition": [
+				"noun",
+				" a person or thing that causes great trouble or suffering",
+				" a whip used as an instrument of punishment"
+			]
+		},
+		{
+			"Word": "Vex",
+			"Definition": [
+				"verb",
+				" make (someone) feel annoyed, frustrated, or worried, especially with trivial matters"
+			]
+		},
+		{
+			"Word": "Conspicuous",
+			"Definition": [
+				"adjective",
+				" standing out so as to be clearly visible.",
+				" attracting notice or attention"
+			]
+		},
+		{
+			"Word": "Retort",
+			"Definition": [
+				"verb",
+				" say something in answer to a remark or accusation, typically in a sharp, angry, or wittily incisive manner.",
+				" noun: a sharp, angry, or wittily incisive reply to a remark"
+			]
+		},
+		{
+			"Word": "Assent",
+			"Definition": [
+				"noun",
+				" he expression of approval or agreement",
+				" verb: express approval or agreement, typically officially"
+			]
+		},
+        {
+            "Word": "Sanction", 
+            "Definition": [
+            "noun",
+            " a threatened penalty for disobeying a law or rule",
+			" official permission or approval for an action",
+			" verb: give official permission or approval for (an action)"
+            ]
+        },
+		{
+			"Word": "Exalt", 
+			"Definition": [
+			"verb",
+			" hold (someone or something) in very high regard; think or speak very highly of"
+			]
+		},
+		{
+			"Word": "Siege", 
+			"Definition": [
+			"noun",
+			" a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling the surrender of those inside"
+			]
+		},
+		{
+			"Word": "Malice", 
+			"Definition": [
+			"noun",
+			" the intention or desire to do evil; ill will"
+			]
+		},
+		{
+			"Word": "Throng", 
+			"Definition": [
+			"noun",
+			" a large, densely packed crowd of people or animals",
+			" verb: press tightly together or cram",
+			" verb: (of a crowd) fill or be present in (a place or area)"
+			]
+		},
+		{
+			"Word": "Venerate", 
+			"Definition": [
+			"verb",
+			" regard with great respect; revere"
+			]
+		},
+		{
+			"Word": "Revere", 
+			"Definition": [
+			"verb",
+			" feel deep respect or admiration for (something)"
+			]
+		},
+		{
+			"Word": "Assail", 
+			"Definition": [
+			"verb",
+			" make a concerted or violent attack on",
+			" attack someone physically or emotionally"
+			]
+		}
+
 	]
   }
   
