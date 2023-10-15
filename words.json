@@ -337,6 +337,757 @@
 			" make a concerted or violent attack on",
 			" attack someone physically or emotionally"
 			]
+		},
+		{
+			"Word": "Sublime", 
+			"Definition": [
+			"adjective",
+			" of such excellence, grandeur, or beauty as to inspire great admiration or awe",
+			" verb: (in chemistry): (of a solid substance) change directly into vapor when heated, typically forming a solid deposit again on cooling"
+			]
+		},
+		{
+			"Word": "Endow", 
+			"Definition": [
+			"verb",
+			" provide with a quality, ability, or asset",
+			" give or bequeath an income or property to (a person or institution)"
+			]
+		},
+		{
+			"Word": "Ensue", 
+			"Definition": [
+			"verb",
+			" happen or occur afterward or as a result"
+			]
+		},
+		{
+			"Word": "Brook", 
+			"Definition": [
+			"noun",
+			" a small stream"
+			]
+		},
+		{
+			"Word": "Gale", 
+			"Definition": [
+			"noun",
+			" a very strong wind",
+			" a burst of sound, especially of laughter"
+			]
+		},
+		{
+			"Word": "Muse", 
+			"Definition": [
+			"noun",
+			" a person or personified force who is the source of inspiration for a creative artist",
+			" (in Greek and Roman mythology) each of nine goddesses, the daughters of Zeus and Mnemosyne, who preside over the arts and sciences",
+			" verb: reflect deeply on a subject"
+			]
+		},
+		{
+			"Word": "Satire", 
+			"Definition": [
+			"noun",
+			" he use of humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices, particularly in the context of contemporary politics and other topical issues",
+			" witty language used to convey insults or scorn"
+			]
+		},
+		{
+			"Word": "Scorn", 
+			"Definition": [
+			" the feeling or belief that someone or something is worthless or despicable; contempt",
+			" verb: feel or express contempt or derision for"
+			]
+		},
+		{
+			"Word": "Intrigue", 
+			"Definition": [
+			"verb",
+			" cause to be interested or curious",
+			" arouse the curiosity or interest of; fascinate",
+			" noun: the secret planning of something illicit or detrimental",
+			" noun: a mysterious or fascinating quality"
+			]
+		},
+		{
+			"Word": "Cower", 
+			"Definition": [
+			"verb",
+			" crouch or curl up",
+			" crouch down in fear"
+			]
+		},
+		{
+			"Word": "Latitude", 
+			"Definition": [
+			"noun",
+			" freedom from normal restraints in conduct, scope for freedom of action or thought",
+			" the angular distance of a place north or south of the earth's equator, or of a celestial object north or south of the celestial equator, usually expressed in degrees and minutes"
+			]
+		},
+		{
+			"Word": "Forsake", 
+			"Definition": [
+			"verb",
+			" abandon (someone or something)",
+			" leave someone who needs or counts on you; leave in the lurch"
+			]
+		},
+		{
+			"Word": "Beseech", 
+			"Definition": [
+			"verb",
+			" ask (someone) urgently and fervently to do something; implore; entreat",
+			" ask for or request earnestly"
+			]
+		},
+		{
+			"Word": "Grove", 
+			"Definition": [
+			"noun",
+			" a small wood, orchard, or group of trees"
+			]
+		},
+		{
+			"Word": "Pompous", 
+			"Definition": [
+			"adjective",
+			" affectedly and irritatingly grand, solemn, or self-important"
+			]
+		},
+		{
+			"Word": "Consecrate", 
+			"Definition": [
+			"verb",
+			" make or declare (something, typically a church) sacred; dedicate formally to a religious or divine purpose."
+			]
+		},
+		{
+			"Word": "Impart", 
+			"Definition": [
+			"verb",
+			" make (information) known; communicate",
+			" bestow (a quality)"
+			]
+		},
+		{
+			"Word": "Fathom", 
+			"Definition": [
+			"verb",
+			" understand (a difficult problem or an enigmatic person) after much thought",
+			" noun: a unit of length equal to six feet (approximately 1.8 m), chiefly used in reference to the depth of water"
+			]
+		},
+		{
+			"Word": "Enigma", 
+			"Definition": [
+			"noun",
+			" a person or thing that is mysterious, puzzling, or difficult to understand"
+			]
+		},
+		{
+			"Word": "Venerable", 
+			"Definition": [
+			"adjective",
+			" impressive by reason of age",
+			" accorded a great deal of respect, especially because of age, wisdom, or character"
+			]
+		},
+		{
+			"Word": "Tumultuous", 
+			"Definition": [
+			"adjective",
+			" making a loud, confused noise; uproarious",
+			" excited, confused, or disorderly"
+			]
+		},
+		{
+			"Word": "Besiege", 
+			"Definition": [
+			"verb",
+			" harass, as with questions or requests",
+			" crowd around oppressively; surround and harass",
+			" surround (a place) with armed forces in order to capture it or force its surrender; lay siege to"
+			]
+		},
+		{
+			"Word": "Contrived", 
+			"Definition": [
+			"adjective",
+			" deliberately created rather than arising naturally or spontaneously",
+			" created or arranged in a way that seems artificial and unrealistic"
+			]
+		},
+		{
+			"Word": "Rebuke", 
+			"Definition": [
+			"verb",
+			" express sharp disapproval or criticism of (someone) because of their behavior or actions",
+			" noun: an expression of sharp disapproval or criticism"
+			]
+		},
+		{
+			"Word": "Scrupulous", 
+			"Definition": [
+			"adjective",
+			" very concerned to avoid doing wrong",
+			" (of a person or process) diligent, thorough, and extremely attentive to details"
+			]
+		},
+		{
+			"Word": "Ratify", 
+			"Definition": [
+			"verb",
+			" sign or give formal consent to (a treaty, contract, or agreement), making it officially valid"
+			]
+		},
+		{
+			"Word": "Wistful", 
+			"Definition": [
+			"adjective",
+			" having or showing a feeling of vague or regretful longing",
+			" showing pensive sadness"
+			]
+		},            
+		{
+			"Word": "Pensive", 
+			"Definition": [
+			"adjective",
+			" engaged in, involving, or reflecting deep or serious thought"
+			]
+		},
+		{
+			"Word": "Somber", 
+			"Definition": [
+			"adjective",
+			" dark or dull in color or tone; gloomy"
+			]
+		},
+		{
+			"Word": "Mortify", 
+			"Definition": [
+			"verb",
+			" cause (someone) to feel embarrassed, ashamed, or humiliated"
+			]
+		},
+		{
+			"Word": "Premise", 
+			"Definition": [
+			"noun",
+			" a previous statement or proposition from which another is inferred or follows as a conclusion",
+			" a statement that is held to be true",
+			" verb: base an argument, theory, or undertaking on"			
+			]
+		},
+		{
+			"Word": "Caprice", 
+			"Definition": [
+			"noun",
+			" a sudden and unaccountable change of mood or behavior"
+			]
+		},
+		{
+			"Word": "Accede", 
+			"Definition": [
+			"verb",
+			" agree to a demand, request, or treaty"
+			]
+		},
+		{
+			"Word": "Fervent", 
+			"Definition": [
+			"adjective",
+			" having or displaying a passionate intensity"
+			]
+		},
+		{
+			"Word": "Austere", 
+			"Definition": [
+			"adjective",
+			" severely simple",
+			" severe or strict in manner, attitude, or appearance",
+			" having an extremely plain and simple style or appearance; unadorned"
+			]
+		},
+		{
+			"Word": "Comprehensive", 
+			"Definition": [
+			"adjective",
+			" complete; including all or nearly all elements or aspects of something"
+			]
+		},
+		{
+			"Word": "Arbitrary", 
+			"Definition": [
+			"adjective",
+			" based on random choice or personal whim, rather than any reason or system"
+			]
+		},
+		{
+			"Word": "Exasperate", 
+			"Definition": [
+			"verb",
+			" irritate and frustrate (someone) intensely"
+			]
+		},
+		{
+			"Word": "Edifice", 
+			"Definition": [
+			"noun",
+			" a building, especially a large, imposing one"
+			]
+		},
+		{
+			"Word": "Ominous", 
+			"Definition": [
+			"adjective",
+			" giving the impression that something bad or unpleasant is going to happen; threatening; inauspicious"
+			]
+		},
+		{
+			"Word": "Auspicious", 
+			"Definition": [
+			"adjective",
+			" conducive to success; favorable",
+			" characterized by success; prosperous"
+			]
+		},
+		{
+			"Word": "Pervade", 
+			"Definition": [
+			"verb",
+			" (of an influence, feeling, or quality) be present and apparent throughout",
+			" (especially of a smell) spread through and be perceived in every part of"
+			]
+		},
+		{
+			"Word": "Foster", 
+			"Definition": [
+			"verb",
+			" encourage or promote the development of (something, typically something regarded as good)",
+			" bring up (a child that is not one's own by birth)"
+			]
+		},
+		{
+			"Word": "Admonish", 
+			"Definition": [
+			"verb",
+			" warn or reprimand someone firmly",
+			" warn (someone) of something to be avoided"
+			]
+		},
+		{
+			"Word": "Acquiesce", 
+			"Definition": [
+			"verb",
+			" accept something reluctantly but without protest"
+			]
+		},
+		{
+			"Word": "Slew", 
+			"Definition": [
+			"noun",
+			" a large number or amount or extent"
+			]
+		},
+		{
+			"Word": "Usurp", 
+			"Definition": [
+			"verb",
+			" take (a position of power or importance) illegally or by force"
+			]
+		},
+		{
+			"Word": "Sentinel", 
+			"Definition": [
+			"noun",
+			" a soldier or guard whose job is to stand and keep watch"
+			]
+		},
+		{
+			"Word": "Depose", 
+			"Definition": [
+			"verb",
+			" remove from office suddenly and forcefully",
+			" (in law): testify to or give (evidence) on oath, typically in a written statement"
+			]
+		},
+		{
+			"Word": "Wanton", 
+			"Definition": [
+			"adjective",
+			" (of a cruel or violent action) deliberate and unprovoked; sexually unrestrained or having many casual sexual relationships (typically used of a woman)",
+			" noun: a sexually unrestrained woman"
+			]
+		},
+		{
+			"Word": "Odium", 
+			"Definition": [
+			"noun",
+			" general or widespread hatred or disgust directed toward someone as a result of their actions"
+			]
+		},
+		{
+			"Word": "Deference", 
+			"Definition": [
+			"noun",
+			" humble submission and respect"
+			]
+		},
+		{
+			"Word": "Fray", 
+			"Definition": [
+			"verb",
+			" (of a fabric, rope, or cord) unravel or become worn at the edge, typically through constant rubbing",
+			" noun: a noisy fight"
+			]
+		},
+		{
+			"Word": "Candid", 
+			"Definition": [
+			" adjective: clear or obvious to the eye or mind",
+			" ruthful and straightforward; frank",
+			" openly straightforward and direct without secretiveness"
+			]
+		},
+		{
+			"Word": "Impertinent", 
+			"Definition": [
+			"adjective",
+			" not showing proper respect; rude",
+			" not pertinent to a particular matter; irrelevant"
+			]
+		},
+		{
+			"Word": "Insinuate", 
+			"Definition": [
+			"verb",
+			" suggest or hint (something bad or reprehensible) in an indirect and unpleasant way"
+			]
+		},
+		{
+			"Word": "Reprehensible", 
+			"Definition": [
+			"adjective",
+			" deserving censure or condemnation"
+			]
+		},
+		{
+			"Word": "Languid", 
+			"Definition": [
+			"adjective",
+			" weak or faint from illness or fatigue",
+			" (of a person, manner, or gesture) displaying or having a disinclination for physical exertion or effort; slow and relaxed",
+			" lacking spirit or liveliness"
+			]
+		},
+		{
+			"Word": "Nominal", 
+			"Definition": [
+			"adjective",
+			" (of a price or amount of money) very small; far below the real value or cost",
+			" insignificantly small; a matter of form only"
+			]
+		},
+		{
+			"Word": "Gaunt", 
+			"Definition": [
+			"adjective",
+			" (of a person) lean and haggard, especially because of suffering, hunger, or age",
+			" (of a building or place) grim or desolate in appearance"
+			]
+		},
+		{
+			"Word": "Gauntlet", 
+			"Definition": [
+			"noun",
+			" an armored glove, as worn by a medieval knight, the part of a glove covering the wrist"
+			]
+		},
+		{
+			"Word": "Morbid", 
+			"Definition": [
+			"adjective",
+			" characterized by an unusual interest in disturbing and unpleasant subjects, especially death and disease"
+			]
+		},
+		{
+			"Word": "Pacify", 
+			"Definition": [
+			"verb",
+			" quell the anger, agitation, or excitement of"
+			]
+		},
+		{
+			"Word": "Ebb", 
+			"Definition": [
+			"noun",
+			" the movement of the tide out to sea",
+			" verb: (of an emotion or quality) gradually lessen or reduce"
+			]
+		},
+		{
+			"Word": "Pastoral", 
+			"Definition": [
+			"noun",
+			" a work of literature portraying an idealized version of country life",
+			" verb: (especially of land or a farm) used for or related to the keeping or grazing of sheep or cattle"
+			]
+		},
+		{
+			"Word": "Appease", 
+			"Definition": [
+			"verb",
+			" pacify or placate (someone) by acceding to their demands",
+			" relieve or satisfy (a demand or a feeling)"
+			]
+		},
+		{
+			"Word": "Stipulate", 
+			"Definition": [
+			"verb",
+			" demand or specify (a requirement), typically as part of a bargain or agreement"
+			]
+		},
+		{
+			"Word": "Clause", 
+			"Definition": [
+			"noun",
+			" a particular and separate article, stipulation, or proviso in a treaty, bill, or contract",
+			" a unit of grammatical organization next below the sentence in rank and in traditional grammar said to consist of a subject and predicate"
+			]
+		},
+		{
+			"Word": "Adjudicate", 
+			"Definition": [
+			"verb",
+			" make a formal judgment or decision about a problem or disputed matter",
+			" act as a judge in a competition",
+			" pronounce or declare judicially"
+			]
+		},
+		{
+			"Word": "Recourse", 
+			"Definition": [
+			"noun",
+			" a source of help in a difficult situation",
+			" the use of someone or something as a source of help in a difficult situation",
+			" the legal right to demand compensation or payment"
+			]
+		},
+		{
+			"Word": "Loathe", 
+			"Definition": [
+			"verb",
+			" feel intense dislike or disgust for"
+			]
+		},
+		{
+			"Word": "Bate", 
+			"Definition": [
+			"noun",
+			" an angry mood"
+			]
+		},
+		{
+			"Word": "Rampart", 
+			"Definition": [
+			"noun",
+			" a defensive wall of a castle or walled city, having a broad top with a walkway and typically a stone parapet",
+			" verb: fortify or surround with or as if with a rampart"
+			]
+		},
+		{
+			"Word": "Tarry", 
+			"Definition": [
+			"adjective",
+			" leave slowly and hesitantly"
+			]
+		},
+		{
+			"Word": "Perpetrate", 
+			"Definition": [
+			"verb",
+			" carry out or commit (a harmful, illegal, or immoral action)"
+			]
+		},
+		{
+			"Word": "Decorum", 
+			"Definition": [
+			"adjective",
+			" behavior in keeping with good taste and propriety",
+			" etiquette"
+			]
+		},
+		{
+			"Word": "Avarice", 
+			"Definition": [
+			"noun",
+			" extreme greed for wealth or material gain"
+			]
+		},
+		{
+			"Word": "Edict", 
+			"Definition": [
+			"noun",
+			" an official order or proclamation issued by a person in authority",
+			" a formal or authoritative proclamation"
+			]
+		},
+		{
+			"Word": "Capitulate", 
+			"Definition": [
+			"verb",
+			" cease to resist an opponent or an unwelcome demand; surrender"
+			]
+		},
+		{
+			"Word": "Disconcert", 
+			"Definition": [
+			"verb",
+			" disturb the composure of; unsettle"
+			]
+		},
+		{
+			"Word": "Visage", 
+			"Definition": [
+			"noun",
+			" a person's face, with reference to the form or proportions of the features",
+			" a person's facial expression"
+			]
+		},
+		{
+			"Word": "Parable", 
+			"Definition": [
+			"noun",
+			" a short moral story",
+			" a simple story used to illustrate a moral or spiritual lesson, as told by Jesus in the Gospels"
+			]
+		},
+		{
+			"Word": "Chatise", 
+			"Definition": [
+			"verb",
+			" scold or criticize severely",
+			" rebuke or reprimand severely"
+			]
+		},
+		{
+			"Word": "Veritable", 
+			"Definition": [
+			"adjective",
+			" being truly so called; real or genuine"
+			]
+		},
+		{
+			"Word": "Gentry", 
+			"Definition": [
+			"noun",
+			" people of good social position, specifically (in the UK) the class of people next below the nobility in position and birth"
+			]
+		},
+		{
+			"Word": "Prowess", 
+			"Definition": [
+			"noun",
+			" skill or expertise in a particular activity or field",
+			" bravery in battle",
+			" a superior skill learned by study and practice"
+			]
+		},
+		{
+			"Word": "Dank", 
+			"Definition": [
+			"adjective",
+			" unpleasantly moist or humid; damp"
+			]
+		},
+		{
+			"Word": "Defile", 
+			"Definition": [
+			"very",
+			" sully, mar, or spoil",
+			" desecrate or profane (something sacred)",
+			" violate the chastity of (a woman)"
+			]
+		},
+		{
+			"Word": "Semblance", 
+			"Definition": [
+			"noun",
+			" the outward appearance or apparent form of something, especially when the reality is different"
+			]
+		},
+		{
+			"Word": "Tout", 
+			"Definition": [
+			"verb",
+			" attempt to sell (something), typically by pestering people in an aggressive or bold manner",
+			" noun: a person soliciting custom or business, typically in an aggressive or bold manner"
+			]
+		},
+		{
+			"Word": "Fortitude", 
+			"Definition": [
+			"noun",
+			" courage in pain or adversity",
+			" strength of mind that enables one to endure adversity"
+			]
+		},
+		{
+			"Word": "Asunder", 
+			"Definition": [
+			"adverb",
+			" apart; divided",
+			" into pieces"
+			]
+		},
+		{
+			"Word": "Beguile", 
+			"Definition": [
+			"verb",
+			" charm or enchant (someone), sometimes in a deceptive way"
+			]
+		},
+		{
+			"Word": "Purport", 
+			"Definition": [
+			"verb",
+			" appear or claim to be or do something, especially falsely; profess",
+			" noun: the meaning or substance of something, typically a document or speech"
+			]
+		},
+		{
+			"Word": "Bequeath", 
+			"Definition": [
+			"verb",
+			" leave (a personal estate or one's body) to a person or other beneficiary by a will",
+			" pass (something) on or leave (something) to someone else"
+			]
+		},
+		{
+			"Word": "Betrothed", 
+			"Definition": [
+			"noun",
+			" the person to whom one is engaged",
+			" pledged to be married"
+			]
+		},
+		{
+			"Word": "Prospective", 
+			"Definition": [
+			"adjective",
+			" likely to happen at a future date; concerned with or applying to the future",
+			" (of a person) expected or expecting to be something particular in the future"
+			]
+		},
+		{
+			"Word": "Deduce", 
+			"Definition": [
+			"verb",
+			" arrive at (a fact or a conclusion) by reasoning; draw as a logical conclusion"
+			]
 		}
 
 	]
