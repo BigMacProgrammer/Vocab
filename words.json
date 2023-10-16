@@ -1095,6 +1095,31 @@
 			"adjective",
 			" involving or requiring strenuous effort; difficult and tiring"
 			]
+		},
+		{
+			"Word": "Solemn", 
+			"Definition": [
+			"adjective",
+			" formal and dignified",
+			" not cheerful or smiling; serious",
+			" characterized by deep sincerity"
+			]
+		},
+		{
+			"Word": "Solace", 
+			"Definition": [
+			"noun",
+			" comfort or consolation in a time of distress or sadness",
+			" verb: give comfort or consolation to"
+			]
+		},
+		{
+			"Word": "Repugnant", 
+			"Definition": [
+			"adjective",
+			" extremely distasteful; unacceptable",
+			" in conflict with; incompatible with"
+			]
 		}
 	]
   }
